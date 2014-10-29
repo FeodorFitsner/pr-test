@@ -1,3 +1,4 @@
 test: off
+# simple comment
 build_script:
   - echo Hello!!
