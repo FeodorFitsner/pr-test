@@ -1,3 +1,4 @@
-test: off
 build_script:
   - echo Hello!!
+
+test: off
